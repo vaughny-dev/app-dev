@@ -1,2 +1,2 @@
-# app-dev
-My First Repository
+1. Seven Sundays
+2. All about family that have misunderstanding
